@@ -1,3 +1,3 @@
 # learn-django
 
-Sample Project to check, how admin portal can customized
+Sample Project to check & test the django functions
